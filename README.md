@@ -1,8 +1,16 @@
 <h2>VR电力仿真系统(Unity)</h2> 
 # 系统使用教程
-智能化工具作用是方便有效的管理每个HLOD System，如图。每个脚本都管理着一个系统，脚本引用着当前系统精细度模型、BVH、合批模型的跟节点。
- <img src="/DocumentationImages/1.png" width="50%">    
+
  
+ <table border="0">   
+ 智能化工具作用是方便有效的管理每个HLOD System，如图。每个脚本都管理着一个系统，脚本引用着当前系统精细度模型、BVH、合批模型的跟节点。
+  <tr>
+    <td width="50%">    
+      <img src="/DocumentationImages/1.png" width="50%">        
+    </td>
+  </tr>
+</table></br>
+
 图 4-1  智能化工具
 4.1 工具支持
 1、一键生成、删除

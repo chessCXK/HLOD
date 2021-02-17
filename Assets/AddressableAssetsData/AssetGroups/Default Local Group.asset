@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: bbe38231b4b588b45881a142b3c5340a
+  m_SerializeEntries:
+  - m_GUID: 6c17426f29016494dac7feeab3ebf6c2
+    m_Address: Assets/HLOD/Demo/Stream/006_Xg001.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9d50f78e64bf33c4b8c64ed8efd53edc
+    m_Address: Assets/HLOD/Demo/Stream/Streaming/LODVolumeNode0.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ddfb3fef4b6147e4d9d5d34714160fce
+    m_Address: Assets/HLOD/Demo/Stream/Streaming/LODVolumeNode1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: dc31114df0b51da4d80bde916b73839b
+    m_Address: Assets/HLOD/Demo/Stream/Streaming/LODVolumeNode6.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1f5d47eddf4d9e14cb11e7d7c82676ee
+    m_Address: Assets/HLOD/Demo/Stream/Streaming/LODVolumeNode10.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f27dc47f7e74a3043bc112da3e720cd5
+    m_Address: Assets/HLOD/Demo/Stream/Streaming/LODVolumeNode15.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5d836a8c02a825844b2eda5402b48a06
+    m_Address: Assets/HLOD/Demo/Stream/Streaming/LODVolumeNode19.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 209ffd05985afcf43b8516e48256e017
+    m_Address: Assets/HLOD/Demo/Stream/Streaming/LODVolumeNode27.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: aa551931b4e528841b7f1b9fc22ebbb1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c59326a0aec729c458e4fab071ed0b05, type: 2}
+    - {fileID: 11400000, guid: 4fac02b88d54d2b44bacb84533ac24f6, type: 2}
